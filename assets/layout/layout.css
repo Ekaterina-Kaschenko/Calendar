@@ -1,0 +1,16 @@
+/*universe global classes*/
+.layout-table{
+ 	display: table;
+}
+.layout-table-caption{
+ 	display: table-caption;
+}
+.layout-table-row{
+	display: table-row;
+}
+.layout-table-cell{
+	display: table-cell;
+}
+.layout-fill{
+	width: 100%;
+}
